@@ -3,7 +3,8 @@ Nodeunit contributors (sorted alphabeticaly)
 *Userstory
 ##Artsiom Kisialiou
 * team lead
-###Vlad Ilushictz#
+
+#Vlad Ilushictz#
 *CEO
 ####Denis Kruglik#
 *HTML test reporter
